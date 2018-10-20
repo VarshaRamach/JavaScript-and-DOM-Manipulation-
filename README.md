@@ -1,1 +1,1 @@
-# Introduction-to-JavaScript
+# JavaScript and DOM Manipulation 
